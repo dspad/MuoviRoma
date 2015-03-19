@@ -11,7 +11,7 @@ import org.apache.xmlrpc.client.XmlRpcClientConfigImpl;
 
 public class MuoversiARoma {
     
-    final static String DEV_KEY = "F8EMk1614ujQBMOjaIV7gFaRR7V7AY2j";
+    final static String DEV_KEY = ""; //RICHIEDERE DEV KEY ATAC
 
     public static void main(String[] args) {
         
